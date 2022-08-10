@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "LabCelery"
-version = "0.1.0"
+version = "0.1.1"
 description = "Lab de menssageria com Celery e Python"
 authors = ["Fábio da Rosa"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-flower = "^1.0.0"
+flower = "^1.2.0"
 redis = "^3.5.3"
 
 [tool.poetry.dev-dependencies]
