@@ -1,4 +1,3 @@
-from tasks import salve_do_fabio
+from tasks import example_task
 
-
-salve_do_fabio.delay()
+example_task.delay()
